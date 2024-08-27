@@ -3,4 +3,4 @@ It should use AI model trained on data from media which were approved by their a
 No other type of data is allowed.
 This project utilises Godot 4.3-stable as UI base; Python 3.12.? as AI base.
 This decision requires to have a Godot Plugion for Python support. Such plugin for Godot 4.3-stable is not yet available.
-Therefor wait for release or make own custom Plugin.
+Therefore wait for release or make own custom Plugin.
